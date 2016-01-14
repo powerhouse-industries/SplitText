@@ -1,7 +1,7 @@
 # SplitText
 Dynamic Multi-Line Padded Text
 
-Very much a WIP. 
+*Very much a WIP.* 
 
 ## Usage
 
