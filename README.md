@@ -7,13 +7,13 @@ Dynamic Multi-Line Padded Text
 
 Include SplitText in your project. You can use the script in the traditional method like so:
 
-```prettyprint
+```html
 <script src="checkMQ.min.js"></script>
 ```
 
 You'll then need to initialise the script on document ready: 
 
-```prettyprint
+```javascript
 document.addEventListener('DOMContentLoaded', SplitText.init);
 ```
 
