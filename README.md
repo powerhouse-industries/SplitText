@@ -1,7 +1,7 @@
 # SplitText
 Dynamic Multi-Line Padded Text
 
-*It works, bit is very much a WIP.* 
+*It works, but is very much a WIP.* 
 
 ## Usage
 
